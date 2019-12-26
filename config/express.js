@@ -66,7 +66,4 @@ app.use('/api/v1', routes);
 // catch 404 and forward to error handler
 app.use(error.notFound);
 
-// error handler, send stacktrace only during development
-app.use(error.handler);
-
 module.exports = app;
