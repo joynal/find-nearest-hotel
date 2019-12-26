@@ -1,5 +1,5 @@
 # Overview
-Nearest hotel API service, used [here API](https://here.com/). See demo at [Heroku](https://heroku.com)
+Nearest hotel API service, used [here API](https://here.com/).
 
 ## Pre-requisites
 
